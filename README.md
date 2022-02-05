@@ -25,7 +25,8 @@ Links of all my projects
 
 - Handwritten Digit Recognition : [source code](https://github.com/amolambkar/Digit-Recognition) , [demo](https://youtu.be/YDuPdMfW3XU)
 ```
-
+python
+CNN
 ```
 
 - Telegram Bot (Notifier) : [source code](https://github.com/amolambkar/Telegram-Bot-Python)
@@ -43,7 +44,8 @@ python
 
 - Face Detection : [source code](https://github.com/amolambkar/Face-Detection)
 ```
-
+python
+OpenCV
 ```
 
 - Tic Tac Toe : [source code](https://github.com/amolambkar/Tic-Tac-Toe)
