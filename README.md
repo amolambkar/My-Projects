@@ -15,14 +15,6 @@ Links of all my projects
  Python
 ```
 
-
-- Contact Manager : [source code](https://github.com/amolambkar/My-Network)
-
-```
- ReactJS 
-```
-
-
 - Handwritten Digit Recognition : [source code](https://github.com/amolambkar/Digit-Recognition) , [demo](https://youtu.be/YDuPdMfW3XU)
 ```
 python
@@ -80,3 +72,10 @@ python
 ```
 python
 ```
+
+- Contact Manager : [source code](https://github.com/amolambkar/My-Network)
+
+```
+ ReactJS 
+```
+
